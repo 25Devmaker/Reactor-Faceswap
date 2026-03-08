@@ -1,0 +1,13 @@
+# Never commit these
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+gradio_cached_examples/
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
